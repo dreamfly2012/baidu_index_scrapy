@@ -2,6 +2,9 @@
 百度指数爬虫
 ###
 
-sfasdfsfsdfjslfsfj
 
-######
+使用python进行百度Index的抓取.
+
+#####
+建表语句
+#####
